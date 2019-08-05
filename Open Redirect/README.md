@@ -160,6 +160,7 @@ http://www.example.com/redirect.php?url=javascript:prompt(1)
 ?checkout_url={payload}
 ?continue={payload}
 ?return_path={payload}
+?from={payload}
 ```
 
 ## References
